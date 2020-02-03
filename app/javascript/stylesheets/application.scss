@@ -1,0 +1,19 @@
+@import './bootstrap_custom.scss';
+@import "./navigation.scss";
+@import "./welcome.scss";
+@import "./improvements.scss";
+
+body {
+	background-color: #FBFBFB;
+	color: #333333;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
